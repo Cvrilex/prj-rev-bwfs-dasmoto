@@ -1,0 +1,25 @@
+/* *{
+  margin: 0px;
+  padding: 0px;
+} */
+#title{
+  width: auto;height: aoto;
+  background-image: url('../resources/img/pattern.jpeg')
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: rgb(241, 225, 117);
+}
+h2{
+  font-size: 30px;
+}
+#div01{
+  background-color: rgb(89, 241, 136);
+}
+#div02{
+  background-color: rgb(246, 140, 140);
+}
+#div03{
+  background-color: rgb(135, 198, 250);
+}
